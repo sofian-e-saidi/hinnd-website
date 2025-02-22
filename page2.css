@@ -1,0 +1,48 @@
+body{
+    background-image: url(wp3238158.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div1{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background: rgb(232, 222, 233);
+}
+.div2{
+    width: 95% ;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(232, 222, 233);
+    border: solid;
+    border-color: black;
+}
+.title{
+    text-align: center; 
+    font-size: xxx-large;
+}
+p{
+    font-size: x-large;
+}
+.button{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 100px;
+    width: auto;
+    font-size: xxx-large;
+    border-radius: 30px;
+    border: none;
+    background-color: palevioletred;
+    box-shadow: -10px -10px 30px rgb(85, 11, 36) inset;
+    margin-bottom: 100px;
+}
+.button:hover , .button:active{
+    background-color: rgb(255, 145, 182);
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,55 @@
+body{
+    background-image: url(wp3238158.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    background: rgb(249, 158, 217);
+    margin: auto;
+    width: 90%;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Brush Script MT', cursiveGeorgia ;
+    font-size: 100px;
+    color: rgb(67, 12, 43);
+    margin-top: 40%;
+}
+div{
+    
+    width: 80%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url(IMG_20250222_142319_818x800.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.click{
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    width: 300px;
+    height: 100px;
+    font-size: xxx-large;
+    border-radius: 50px;
+    border: none; 
+    color: black;
+    background-color: palevioletred;
+    box-shadow: -10px -10px 30px rgb(85, 11, 36) inset;
+    
+}
+.click:hover, .click:active{
+    background-color: rgb(255, 145, 182);
+}
+a{
+    text-decoration: none;
+}
+
